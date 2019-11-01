@@ -1,0 +1,9 @@
+{
+  "name": "Gerenciador financeiro",
+  "short_name": "Tavious",
+  "theme_color": "#ccac00",
+  "background_color": "#ccac00",
+  "display": "standalone",
+  "scope": "financas.php",
+  "start_url": "index.php"
+}
